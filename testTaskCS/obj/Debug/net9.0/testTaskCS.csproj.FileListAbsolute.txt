@@ -1,0 +1,14 @@
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/testTaskCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/testTaskCS.AssemblyInfoInputs.cache
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/testTaskCS.AssemblyInfo.cs
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/testTaskCS.csproj.CoreCompileInputs.cache
+/Users/vital/vs/testTaskCS/testTaskCS/bin/Debug/net9.0/testTaskCS
+/Users/vital/vs/testTaskCS/testTaskCS/bin/Debug/net9.0/testTaskCS.deps.json
+/Users/vital/vs/testTaskCS/testTaskCS/bin/Debug/net9.0/testTaskCS.runtimeconfig.json
+/Users/vital/vs/testTaskCS/testTaskCS/bin/Debug/net9.0/testTaskCS.dll
+/Users/vital/vs/testTaskCS/testTaskCS/bin/Debug/net9.0/testTaskCS.pdb
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/testTaskCS.dll
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/refint/testTaskCS.dll
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/testTaskCS.pdb
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/testTaskCS.genruntimeconfig.cache
+/Users/vital/vs/testTaskCS/testTaskCS/obj/Debug/net9.0/ref/testTaskCS.dll
